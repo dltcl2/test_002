@@ -451,7 +451,6 @@
                                     <value
                                     endTime="2019-11-19T00:26:39.548+0900"
                                     intervalUnit="Second"
-                                    runOnce="true"
                                     startTime="2019-11-19T00:26:39.548+0900"
                                     timeInterval="1" xsi:type="generalactivities:Timer"/>
                                 </properties>
